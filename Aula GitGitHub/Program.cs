@@ -10,7 +10,8 @@ namespace Aula_GitGitHub
             Console.WriteLine();
             Console.WriteLine("Segunda versão do Projeto!");
 
-            Console.WriteLine("Espero que esteja tudo bem!");
+            Console.WriteLine("Como foi o seu dia? ");
+            Console.WriteLine("Espero que bem!");
         }
     }
 }
