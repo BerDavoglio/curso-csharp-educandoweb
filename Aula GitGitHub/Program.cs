@@ -12,6 +12,7 @@ namespace Aula_GitGitHub
 
             Console.WriteLine("Como foi o seu dia? ");
             Console.WriteLine("Espero que bem!");
+            Console.WriteLine("Alteração teste github");
         }
     }
 }
